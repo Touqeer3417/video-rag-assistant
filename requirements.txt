@@ -1,6 +1,10 @@
-streamlit
-youtube-transcript-api
-langchain
-openai
-faiss-cpu
-python-dotenv
+streamlit==1.32.2
+youtube-transcript-api==0.6.2
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-openai==0.1.22
+langchain-core==0.2.32
+langchain-text-splitters==0.2.2
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+openai==1.40.0
